@@ -1,227 +1,230 @@
 [
     {
-      "id": 1236982307800,
-      "name": "Ferntree Gully Holden - Ferntree Gully",
-      "description": "Ferntree Gully Holden - Ferntree Gully",
-      "_self": "/api/2/dealers/1236982307800",
-      "isRecommended": true,
-      "companyName": "Ferntree Gully Holden",
-      "website": "http://www.ferntreegullyholden.com.au",
-      "inventory": "http://ferntree-gully.gmholdendealer.com.au/VehicleSearchResults",
-      "holdenWebsite": "/dealers/victoria/metropolitan-melbourne-and-surrounds/ferntree-gully-holden",
-      "address": "980 Burwood Highway",
-      "suburb": "Ferntree Gully",
-      "postcode": "3156",
-      "phone": "03 9998 3707",
-      "fax": "03 9753 1242",
-      "latitude": -37.887573,
-      "longitude": 145.28575,
-      "openingHours": {
-        "sales": [
-          {
-            "key": "Monday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Tuesday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Wednesday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Thursday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Friday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Saturday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Sunday",
-            "hours": "Closed"
-          }
-        ],
-        "service": [
-          {
-            "key": "Monday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Tuesday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Wednesday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Thursday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Friday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Saturday",
-            "hours": "8:00am - 12:00pm"
-          },
-          {
-            "key": "Sunday",
-            "hours": "Closed"
-          }
-        ],
-        "parts": [
-          {
-            "key": "Monday",
-            "hours": "8:00am - 5:30pm"
-          },
-          {
-            "key": "Tuesday",
-            "hours": "8:00am - 5:30pm"
-          },
-          {
-            "key": "Wednesday",
-            "hours": "8:00am - 5:30pm"
-          },
-          {
-            "key": "Thursday",
-            "hours": "8:00am - 5:30pm"
-          },
-          {
-            "key": "Friday",
-            "hours": "8:00am - 5:30pm"
-          },
-          {
-            "key": "Saturday",
-            "hours": "8:30am - 12:00pm"
-          },
-          {
-            "key": "Sunday",
-            "hours": "Closed"
-          }
+        "object": [{
+            "id": 1236982307800,
+            "name": "Ferntree Gully Holden - Ferntree Gully",
+            "description": "Ferntree Gully Holden - Ferntree Gully",
+            "_self": "/api/2/dealers/1236982307800",
+            "isRecommended": true,
+            "companyName": "Ferntree Gully Holden",
+            "website": "http://www.ferntreegullyholden.com.au",
+            "inventory": "http://ferntree-gully.gmholdendealer.com.au/VehicleSearchResults",
+            "holdenWebsite": "/dealers/victoria/metropolitan-melbourne-and-surrounds/ferntree-gully-holden",
+            "address": "980 Burwood Highway",
+            "suburb": "Ferntree Gully",
+            "postcode": "3156",
+            "phone": "03 9998 3707",
+            "fax": "03 9753 1242",
+            "latitude": -37.887573,
+            "longitude": 145.28575,
+            "openingHours": {
+                "sales": [
+                {
+                    "key": "Monday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Tuesday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Wednesday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Thursday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Friday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Saturday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Sunday",
+                    "hours": "Closed"
+                }
+                ],
+                "service": [
+                {
+                    "key": "Monday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Tuesday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Wednesday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Thursday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Friday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Saturday",
+                    "hours": "8:00am - 12:00pm"
+                },
+                {
+                    "key": "Sunday",
+                    "hours": "Closed"
+                }
+                ],
+                "parts": [
+                {
+                    "key": "Monday",
+                    "hours": "8:00am - 5:30pm"
+                },
+                {
+                    "key": "Tuesday",
+                    "hours": "8:00am - 5:30pm"
+                },
+                {
+                    "key": "Wednesday",
+                    "hours": "8:00am - 5:30pm"
+                },
+                {
+                    "key": "Thursday",
+                    "hours": "8:00am - 5:30pm"
+                },
+                {
+                    "key": "Friday",
+                    "hours": "8:00am - 5:30pm"
+                },
+                {
+                    "key": "Saturday",
+                    "hours": "8:30am - 12:00pm"
+                },
+                {
+                    "key": "Sunday",
+                    "hours": "Closed"
+                }
+                ]
+            },
+            "legacyId": "01234",
+            "BACCode": "286017"
+            },
+            {
+            "id": 1220582359998,
+            "name": "Patterson Cheney Holden - Vermont",
+            "description": "Patterson Cheney Holden - Vermont",
+            "_self": "/api/2/dealers/1220582359998",
+            "isRecommended": false,
+            "companyName": "Patterson Cheney Holden",
+            "website": "http://www.pattersoncheneyholden.com.au",
+            "inventory": "http://patterson-cheney.gmholdendealer.com.au/VehicleSearchResults",
+            "holdenWebsite": "/dealers/victoria/metropolitan-melbourne-and-surrounds/patterson-cheney-holden",
+            "address": "407 Canterbury Road",
+            "suburb": "Vermont",
+            "postcode": "3133",
+            "phone": "03 9998 3741",
+            "fax": "03 9262 6693",
+            "tradingHours": "Monday - Friday 7.30 am - 6.00 pm; Saturday 8.30 am - 5.30 pm",
+            "latitude": -37.836323,
+            "longitude": 145.18756,
+            "openingHours": {
+                "sales": [
+                {
+                    "key": "Monday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Tuesday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Wednesday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Thursday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Friday",
+                    "hours": "8:30am - 6:00pm"
+                },
+                {
+                    "key": "Saturday",
+                    "hours": "9:00am - 5:00pm"
+                },
+                {
+                    "key": "Sunday",
+                    "hours": "Closed"
+                }
+                ],
+                "service": [
+                {
+                    "key": "Monday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Tuesday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Wednesday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Thursday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Friday",
+                    "hours": "7:30am - 5:30pm"
+                },
+                {
+                    "key": "Saturday",
+                    "hours": "8:30am - 11:30am"
+                },
+                {
+                    "key": "Sunday",
+                    "hours": "Closed"
+                }
+                ],
+                "parts": [
+                {
+                    "key": "Monday",
+                    "hours": "8:30am - 5:00pm"
+                },
+                {
+                    "key": "Tuesday",
+                    "hours": "8:30am - 5:00pm"
+                },
+                {
+                    "key": "Wednesday",
+                    "hours": "8:30am - 5:00pm"
+                },
+                {
+                    "key": "Thursday",
+                    "hours": "8:30am - 5:00pm"
+                },
+                {
+                    "key": "Friday",
+                    "hours": "8:30am - 5:00pm"
+                },
+                {
+                    "key": "Saturday",
+                    "hours": "9:00am - 12:00pm"
+                },
+                {
+                    "key": "Sunday",
+                    "hours": "Closed"
+                }
+                ]
+            },
+            "legacyId": "85",
+            "BACCode": "225702"
+            }
         ]
-      },
-      "legacyId": "01234",
-      "BACCode": "286017"
-    },
-    {
-      "id": 1220582359998,
-      "name": "Patterson Cheney Holden - Vermont",
-      "description": "Patterson Cheney Holden - Vermont",
-      "_self": "/api/2/dealers/1220582359998",
-      "isRecommended": false,
-      "companyName": "Patterson Cheney Holden",
-      "website": "http://www.pattersoncheneyholden.com.au",
-      "inventory": "http://patterson-cheney.gmholdendealer.com.au/VehicleSearchResults",
-      "holdenWebsite": "/dealers/victoria/metropolitan-melbourne-and-surrounds/patterson-cheney-holden",
-      "address": "407 Canterbury Road",
-      "suburb": "Vermont",
-      "postcode": "3133",
-      "phone": "03 9998 3741",
-      "fax": "03 9262 6693",
-      "tradingHours": "Monday - Friday 7.30 am - 6.00 pm; Saturday 8.30 am - 5.30 pm",
-      "latitude": -37.836323,
-      "longitude": 145.18756,
-      "openingHours": {
-        "sales": [
-          {
-            "key": "Monday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Tuesday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Wednesday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Thursday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Friday",
-            "hours": "8:30am - 6:00pm"
-          },
-          {
-            "key": "Saturday",
-            "hours": "9:00am - 5:00pm"
-          },
-          {
-            "key": "Sunday",
-            "hours": "Closed"
-          }
-        ],
-        "service": [
-          {
-            "key": "Monday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Tuesday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Wednesday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Thursday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Friday",
-            "hours": "7:30am - 5:30pm"
-          },
-          {
-            "key": "Saturday",
-            "hours": "8:30am - 11:30am"
-          },
-          {
-            "key": "Sunday",
-            "hours": "Closed"
-          }
-        ],
-        "parts": [
-          {
-            "key": "Monday",
-            "hours": "8:30am - 5:00pm"
-          },
-          {
-            "key": "Tuesday",
-            "hours": "8:30am - 5:00pm"
-          },
-          {
-            "key": "Wednesday",
-            "hours": "8:30am - 5:00pm"
-          },
-          {
-            "key": "Thursday",
-            "hours": "8:30am - 5:00pm"
-          },
-          {
-            "key": "Friday",
-            "hours": "8:30am - 5:00pm"
-          },
-          {
-            "key": "Saturday",
-            "hours": "9:00am - 12:00pm"
-          },
-          {
-            "key": "Sunday",
-            "hours": "Closed"
-          }
-        ]
-      },
-      "legacyId": "85",
-      "BACCode": "225702"
     }
 ]
